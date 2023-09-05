@@ -11,7 +11,7 @@ on:
       - main  
   
   schedule:
-    - cron:  "* * * * *" 
+    - cron:  "5 * * * *" 
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
@@ -25,7 +25,7 @@ jobs:
 
       # 使用 Platane/snk 生成图片, see: https://github.com/Platane/snk
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
