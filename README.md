@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 height="200px" align="center">
-    <i class="fa-solid fa-hand-wave fa-shake"></i>, I'm btjawa!
+    👋, I'm btjawa!
   </h1>
    <p align="center" style="font-size:24px;">Electron赛高！<br></p>
    <p style="font-size:18px">
