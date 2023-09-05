@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 height="200px" align="center">
-    👋, I'm btjawa!
+    <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm btjawa!
   </h1>
    <p align="center" style="font-size:24px;">Electron赛高！<br></p>
    <p style="font-size:18px">
