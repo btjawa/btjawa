@@ -18,7 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.YOUR_PERSONAL_ACCESS_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.PAT }}
 
     steps:
       # 使用 actions/checkout, see: https://github.com/actions/checkout
