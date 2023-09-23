@@ -17,8 +17,7 @@
     </div><br>
     <p style="font-size:18px">
     🔗&nbsp;Links<br>
-    主页&nbsp;➡️&nbsp;<a href="https://btjawa.top" target="_blank">https://btjawa.top</a> 
-    博客&nbsp;➡️&nbsp;<a href="https://blog.btjawa.top" target="_blank">https://blog.btjawa.top</a><br>
+    主页&nbsp;➡️&nbsp;<a href="https://btjawa.top" target="_blank">https://btjawa.top</a>&nbsp;博客&nbsp;➡️&nbsp;<a href="https://blog.btjawa.top" target="_blank">https://blog.btjawa.top</a><br>
     bilibili&nbsp;➡️&nbsp;<a href="https://space.bilibili.com/524309471" target="_blank">https://space.bilibili.com/524309471</a>
     </p>
 </div>
