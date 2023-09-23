@@ -1,5 +1,5 @@
 <h1 height="200px" align="center">
-<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="30">Hello, I'm btjawa!
+👋 Hello, I'm btjawa!
 </h1>
 <div class="p1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&theme=radical">
