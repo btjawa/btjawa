@@ -7,8 +7,9 @@
     <div class="shields1">
         <img src="https://img.shields.io/badge/-HTML5-EF6026?style=flat&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/-CSS3-139FDA?style=flat&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/-JavaScript-F1E05A?style=flat&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=Rust&logoColor=white">
         <img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus">
     </div>
     <div class="shields2">
