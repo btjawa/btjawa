@@ -3,7 +3,7 @@
 </h1>
 <div class="p1">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&theme=radical">
-    <h2>Electron赛高！</h2>
+    <h2>この素晴らしい世界に祝福を！</h2>
     <div class="shields1">
         <img src="https://img.shields.io/badge/-HTML5-EF6026?style=flat&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/-CSS3-139FDA?style=flat&logo=css3&logoColor=white">
