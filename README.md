@@ -1,30 +1,53 @@
-<h1 height="200px" align="center">👋 Hello, I'm btjawa!</h1>
-<div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&theme=radical">
-    <h2>この素晴らしい世界に祝福を！</h2>
-    <div class="shields1">
-        <img src="https://shields.io/badge/Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-        <img src="https://shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs">
-        <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
-        <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
-        <img src="https://shields.io/badge/Rust-3776AB?style=flat&logo=rust">
-        <img src="https://shields.io/badge/C++-blue?logo=cplusplus">
-    </div>
-    <div class="shields2">
-        <img src="https://shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=white">
-        <img src="https://shields.io/badge/-Github-black?style=flat&logo=github">
-    </div><br>
-    <p style="font-size:18px">
-    🔗&nbsp;Links<br>
-    主页&nbsp;➡️&nbsp;<a href="https://btjawa.top" target="_blank">https://btjawa.top</a><br>
-    博客&nbsp;➡️&nbsp;<a href="https://blog.btjawa.top" target="_blank">https://blog.btjawa.top</a><br>
-    哔哩哔哩&nbsp;➡️&nbsp;<a href="https://space.bilibili.com/524309471" target="_blank">https://space.bilibili.com/524309471</a>
-    </p>
-</div>
+# 👋 Hello, I'm btjawa!
+
+### この素晴らしい世界に祝福を！
+
+<table>
+
+<!-- start -->
+
+<tr><td>
+
+### 🔗 Links
+
+- 🖌️ My blog [https://blog.btjawa.top](https://blog.btjawa.top)
+- 🏠 My homepage [https://www.btjawa.top](https://www.btjawa.top)
+- [<img src="https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili">](https://space.bilibili.com/524309471)
+- [<img src="https://img.shields.io/twitter/follow/ycjcl?label=Twitter&style=social">](https://twitter.com/BTJ_Shiroi)
+
+</tr></td>
+
+<!-- hr -->
+
+<tr><td>
+
+### 💻 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,python,swift,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,vscode,visualstudio,ubuntu,apple)](https://skillicons.dev)
+
+</td></tr>
+
+<!-- hr -->
+
+<tr><td>
+
+### 📈 Statistics
+
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-      <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-    </picture>
+
+<img height=137 src="https://github-readme-stats.vercel.app/api?username=btjawa&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" />
+<img height=137 src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&hide_title=true&layout=compact&theme=radical" />
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
 </div>
+
+</td></tr>
+
+<!-- end -->
+
+</table>
