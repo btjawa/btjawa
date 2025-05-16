@@ -23,7 +23,7 @@
 
 ### 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,python,swift,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,vscode,visualstudio,ubuntu,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,vscode,visualstudio,ubuntu,apple)](https://skillicons.dev)
 
 </td></tr>
 
