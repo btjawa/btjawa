@@ -2,7 +2,7 @@
 
 ### この素晴らしい世界に祝福を！
 
-<img align=right src="https://arcwiki.mcd.blue/images/thumb/3/3c/Sticker_eto_jp.png/150px-Sticker_eto_jp.png" />
+<img align=right height=150 src="./assets/eto_jp.png" />
 
 Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen, China.
 
@@ -23,8 +23,8 @@ Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen
 
 <div align="center">
 
-<img height=170px src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&include_all_commits=true&theme=cobalt" />
-<img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&layout=compact&theme=cobalt" />
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&include_all_commits=true&theme=cobalt" />
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&layout=compact&theme=cobalt" />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
