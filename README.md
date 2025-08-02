@@ -1,4 +1,4 @@
-<img src="https://i0.hdslb.com/bfs/activity-plat/static/0977767b2e79d8ad0a36a731068a83d7/f5uRt8TORq.png@1000w_200h_1c" />
+<img src="./assets/f5uRt8TORq.png" />
 
 ### この素晴らしい世界に祝福を！
 
