@@ -23,6 +23,8 @@ Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen
 
 <div align="center">
 
+<img src="https://count.getloli.com/@btjawa?theme=original-new" />
+
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&include_all_commits=true&theme=cobalt" />
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&layout=compact&theme=cobalt" />
 
@@ -31,7 +33,4 @@ Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
     <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
-
-<img width=100% src="https://count.getloli.com/@btjawa" />
-
 </div>
