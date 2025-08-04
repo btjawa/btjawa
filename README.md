@@ -6,22 +6,31 @@
 
 Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen, China.
 
-- Homepage [https://btjawa.top](https://btjawa.top)
+Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
+
+- Home [https://btjawa.top](https://btjawa.top)
 - Blog [https://blog.btjawa.top](https://blog.btjawa.top)
-- Bilibili [@白弹汲Shiroi](https://space.bilibili.com/524309471)
-- Twitter [@BTJ_SHIROI](https://twitter.com/BTJ_Shiroi)
 
-## Skills & Preference
+## Skills & Preferences
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,vscode,visualstudio,arch,ubuntu,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,vscode,visualstudio,docker,arch,ubuntu,apple)](https://skillicons.dev)
+
+### Also:
 
 - PCB layout
-- ESP32 & Arduino
-- FL Studio & M-Audio
+- ESP32 & Arduino & PlatformIO
+- FL Studio & Ableton Live
+- 日本語を勉強しています
+
+## Where to find me
+
+- Bilibili [@白弹汲Shiroi](https://space.bilibili.com/524309471)
+- Twitter [@BTJ_SHIROI](https://twitter.com/@BTJ_SHIROI)
+- GMail [btj2407@gmail.com](mailto:btj2407@gmail.com)
 
 ## Analystics
 
-<div align="center">
+<div align=center>
 
 <img src="https://count.getloli.com/@btjawa?theme=original-new" />
 
