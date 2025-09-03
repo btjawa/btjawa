@@ -11,14 +11,15 @@ on:
       - master  
   
   schedule:
-    - cron:  "5 * * * *" 
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.PAT }}
 
     steps:
       # 使用 actions/checkout, see: https://github.com/actions/checkout
