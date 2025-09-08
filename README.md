@@ -2,8 +2,6 @@
 
 ### この素晴らしい世界に祝福を！
 
-<img align=right height=150 src="./assets/eto_jp.png" />
-
 Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen, China.
 
 Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
@@ -20,6 +18,7 @@ Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
 - Arduino & PlatformIO
 - Raspberry Pi & ESP32
 - FL Studio & Ableton Live
+- Arcaea & Chunithm
 - 日本語を勉強しています
 
 ## Where to find me
@@ -32,7 +31,7 @@ Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
 
 <div align=center>
 
-<!-- <img src="https://count.getloli.com/@btjawa?theme=original-new" /> -->
+<img src="https://count.getloli.com/@btjawa?theme=original-new" />
 
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&include_all_commits=true&theme=cobalt" />
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&layout=compact&theme=cobalt" />
