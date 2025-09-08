@@ -13,12 +13,12 @@ Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
 
 ## Skills & Preferences
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,vscode,visualstudio,docker,arch,ubuntu,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,idea,vscode,visualstudio,raspberrypi,arduino,docker,mysql,mongodb,sqlite,linux,apple)](https://skillicons.dev)
 
 ### Also:
 
-- PCB layout
-- ESP32 & Arduino & PlatformIO
+- Arduino & PlatformIO
+- Raspberry Pi & ESP32
 - FL Studio & Ableton Live
 - 日本語を勉強しています
 
@@ -32,7 +32,7 @@ Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
 
 <div align=center>
 
-<img src="https://count.getloli.com/@btjawa?theme=original-new" />
+<!-- <img src="https://count.getloli.com/@btjawa?theme=original-new" /> -->
 
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&include_all_commits=true&theme=cobalt" />
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&layout=compact&theme=cobalt" />
