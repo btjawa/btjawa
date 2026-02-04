@@ -24,7 +24,7 @@ Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
 ## Where to find me
 
 - Bilibili [@白弹汲Shiroi](https://space.bilibili.com/524309471)
-- Twitter [@BTJ_SHIROI](https://twitter.com/@BTJ_SHIROI)
+- Twitter [@btj2407](https://twitter.com/@btj2407)
 - GMail [btj2407@gmail.com](mailto:btj2407@gmail.com)
 
 ## Analystics
