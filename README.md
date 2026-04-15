@@ -1,44 +1,34 @@
-<img src="./assets/f5uRt8TORq.png" />
+<img src=".github/banner.png" />
 
-### この素晴らしい世界に祝福を！
+## この素晴らしい世界に祝福を！
 
-Hi there, this is btjawa (白弹汲), a junior high school student from Shenzhen, China.
+**This is btjawa (白弹汲) !** I work on random projects, just coding.
 
-Currently working on [BiliTools](https://github.com/btjawa/BiliTools).
+- Home [https://btjawa.dev](https://btjawa.dev)
+- Blog [https://blog.btjawa.dev](https://blog.btjawa.dev)
+- BiliTools [htttps://bilitools.btjawa.dev](https://bilitools.btjawa.dev)
 
-- Home [https://btjawa.top](https://btjawa.top)
-- Blog [https://blog.btjawa.top](https://blog.btjawa.top)
+Migrating my domain to ***btjawa.dev*** these days.
 
-## Skills & Preferences
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cs,cpp,java,kotlin,python,swift,go,html,css,sass,javascript,typescript,wasm,github,gitlab,vercel,cloudflare,workers,arduino,raspberrypi,mysql,postgres,mongodb,sqlite,vue,astro,electron,tauri,windows,linux,apple,docker,git,bash,powershell,vscode,visualstudio,idea,clion,ps,ai,au,ableton)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,rust,cpp,cs,nodejs,vue,vite,electron,tauri,git,github,ps,pr,idea,vscode,visualstudio,raspberrypi,arduino,docker,mysql,mongodb,sqlite,linux,apple)](https://skillicons.dev)
+## Contacts
 
-### Also:
+Reach me in the following ways!
 
-- Arduino & PlatformIO
-- Raspberry Pi & ESP32
-- FL Studio & Ableton Live
-- Arcaea & Chunithm
-- 日本語を勉強しています
-
-## Where to find me
-
-- Bilibili [@白弹汲Shiroi](https://space.bilibili.com/524309471)
 - Twitter [@btj2407](https://twitter.com/@btj2407)
 - GMail [btj2407@gmail.com](mailto:btj2407@gmail.com)
 
-## Analystics
+## Statistics
 
 <div align=center>
 
 <img src="https://count.getloli.com/@btjawa?theme=original-new" />
 
-<img height=160 src="https://github-readme-stats.vercel.app/api?username=btjawa&show_icons=true&include_all_commits=true&theme=cobalt" />
-<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=btjawa&layout=compact&theme=cobalt" />
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset=".github/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/github-snake.svg" />
+    <img width="100%" alt="github-snake" src=".github/github-snake.svg" />
 </picture>
+
 </div>
