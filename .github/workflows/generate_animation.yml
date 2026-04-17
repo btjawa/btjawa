@@ -17,6 +17,8 @@ jobs:
     timeout-minutes: 3
 
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
@@ -37,10 +39,8 @@ jobs:
             .github/github-snake.svg
             .github/github-snake-dark.svg?palette=github-dark
 
-      - uses: ad-m/github-push-action@v1.1.0
+      - uses: EndBug/add-and-commit@v9
         with:
           branch: master
-          folder: .github
-          commit-message: "ci: update github snake svgs"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          default_author: github_actions
+          message: "ci: update github snake svgs"
