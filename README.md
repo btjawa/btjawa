@@ -6,9 +6,6 @@
 
 - Home [https://btjawa.dev](https://btjawa.dev)
 - Blog [https://blog.btjawa.dev](https://blog.btjawa.dev)
-- BiliTools [htttps://bilitools.btjawa.dev](https://bilitools.btjawa.dev)
-
-Migrating my domain to ***btjawa.dev*** these days.
 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cs,cpp,java,kotlin,python,swift,go,html,css,sass,javascript,typescript,wasm,github,gitlab,vercel,cloudflare,workers,arduino,raspberrypi,mysql,postgres,mongodb,sqlite,vue,astro,electron,tauri,windows,linux,apple,docker,git,bash,powershell,vscode,visualstudio,idea,clion,ps,ai,au,ableton)](https://skillicons.dev)
 
